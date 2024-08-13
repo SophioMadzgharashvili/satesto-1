@@ -169,3 +169,12 @@
     border: 2px solid rgba(23, 194, 236, 1);
     border-radius: 3px;
 }
+
+
+.hr2 {
+    width: 10px;
+    height: 10px;
+    margin: auto;
+    background-color: rgba(23, 194, 236, 1);
+    border-radius: 50%;
+}
