@@ -164,3 +164,8 @@
 }
 
 
+.hr1 {
+    width: 40%;
+    border: 2px solid rgba(23, 194, 236, 1);
+    border-radius: 3px;
+}
